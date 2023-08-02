@@ -1,0 +1,32 @@
+body{
+    background-color: #bec3be;
+    margin:8%;
+}
+#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 50px;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height:20%;
+}
+#tribute-data{
+    background-color: rgba(22, 158, 237, 0.964);
+    box-shadow: 10px 10px 10px;
+    font-family: Georgia;
+    margin: 10px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.para{
+    margin: 30px;
+    margin-bottom: 20px;
+}
+.tribute{
+    margin-left: 20px;
+    margin-top: 10px;
+}
